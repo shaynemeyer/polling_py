@@ -1,6 +1,6 @@
 # Creating the database
 
-I use PostgreSQL for most everything, I sometimes use SQLite for prototyping, but generally lean towards PostgreSQL. These instructions are for setting up on you local machine. Again you can do this however you feel comfortable with, this is just how I do it. 
+I use PostgreSQL for most everything, I sometimes use SQLite for prototyping, but generally lean towards PostgreSQL. These instructions are for setting up on your local machine. Again you can do this however you feel comfortable with, this is just how I do it. 
 
 ## Running Postgres - Postgres.app
 I've used the [Postgres.app](https://postgresapp.com/) for years. I manage the setup of databases and users with `psql` so using Postgres.app installs the Postgres engine and tooling I need to interact my databases from the cli. 
